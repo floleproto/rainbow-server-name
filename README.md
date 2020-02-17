@@ -4,6 +4,7 @@ This plugin allows you to change the color of the names of your server randomly 
 
 ## How to use
 
-Change your color with the word 'random' like this `<color=random>`.
+Change your color with the word 'random' like this `<color=rainbow>`.
+**WARNING : IT'S CASE SENSITIVE. DON'T ALSO USE '"'**
 
-Example : `<color=random>[EN]</color> Server Name`
+Example : `<color=rainbow>[EN]</color> Server Name`
